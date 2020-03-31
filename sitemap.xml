@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://fictions.backto1984.com/bubulle/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/robot/</loc>
+    <lastmod>2017-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/le-vallon-de-l-indecision/</loc>
+    <lastmod>2016-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/pourquoi-moi/</loc>
+    <lastmod>2015-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/tags/absurde/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/tags/po%C3%A9sie/</loc>
+    <lastmod>2016-12-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/tags/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fictions.backto1984.com/tags/th%C3%A9%C3%A2tre/</loc>
+    <lastmod>2017-02-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
